@@ -10,6 +10,11 @@ Class provides the following methods:
 * getText() - Get ASN.1 text 
 * applyMacro(string mql) - Apply Macro, Macro language description: https://www.ncbi.nlm.nih.gov/tools/gbench/manual3/
 * undoLast() - Undo last macro
+---
+
+Demo: https://a-sikorsky.github.io/ncbi_wasm_demo/
+
+Use NCBI Nucletoide WebSite to download text ASN1. For example, https://www.ncbi.nlm.nih.gov/nuccore/AY211956.1
 
 ---
 1\. Install
